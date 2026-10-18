@@ -26,7 +26,7 @@ I build AI agents, chatbots, and smart systems that reason, act, and ship: LLM-p
 
 | Project | What it is | Stack |
 |---|---|---|
-| [**SURVEILLANT**](https://github.com/zeiad-E/SURVEILLANT-system) | AI smart-surveillance system (graduation project) with a conversational assistant: ask in plain language and a local vision-language model finds people across cameras. Docker microservices with a React command center | Python, LLMs, Ollama, Qwen2.5-VL, FAISS, React, Docker |
+| [**SURVEILLANT**](https://github.com/zeiad-E/SURVEILLANT-system) | Multi-camera AI surveillance system (graduation project): real-time tracking, cross-camera re-ID, face recognition, and violence detection, plus semantic search, an AI chatbot, and local LLMs for natural-language person search | Python, YOLOv8, FAISS, InsightFace, Qwen2.5-VL, Ollama, React, Docker |
 | [**TM Energy**](https://tmenergypower.com) | Live Saudi e-commerce platform with a 16M+ parts catalog, Tap payments, OTO shipping, Google sign-in, and an admin dashboard | React, Node.js, PostgreSQL, Docker, Nginx |
 | [**EmoQuira**](https://emotion-detection-frontend-alpha.vercel.app) | Speech emotion recognition: fine-tuned HuBERT detects 6 emotions from voice with 90% accuracy | Python, Transformers, React |
 | [**PetDetect AI**](https://pet-detection-app-frontend.vercel.app) | Detects and segments cats and dogs in uploaded photos, with secure user login | React, Node.js, YOLO |
@@ -46,6 +46,7 @@ I build AI agents, chatbots, and smart systems that reason, act, and ship: LLM-p
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker">
   <img src="https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white" alt="Nginx">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux">
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" alt="OpenCV">
   <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black" alt="Hugging Face">
   <img src="https://img.shields.io/badge/MCP-191919?style=flat" alt="MCP">
   <img src="https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white" alt="Ollama">
